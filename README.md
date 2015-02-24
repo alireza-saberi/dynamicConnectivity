@@ -41,6 +41,6 @@ and is also available on my <a href="https://www.youtube.com/channel/UCAkzrVPNbg
 <li>Quick Find</li>
 <li>Quick Union</li>
 <li>Wieghted Quick Union</li>
+<li>Compressed Path Quick Union</li>
+<li>Cmbination of above: WQUPC or Amortized Analysis</li>
 </ul>
-It's possiple to compress the path to improve the algorithm. How? name the root the points in the middle of path to the master root, which is one line of code in root method
-Combination of the compressed path and wighted is called WQUPC or Amortized
