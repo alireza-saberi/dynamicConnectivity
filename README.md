@@ -36,3 +36,9 @@ and is also available on my <a href="https://www.youtube.com/channel/UCAkzrVPNbg
   </ul>
 </p>
 
+<h2>Algorithms</h2>
+<ul>
+<li>Quick Find</li>
+<li>Quick Union</li>
+<li>Modified Quick Union</li>
+</ul>
