@@ -44,8 +44,8 @@ and is also available on my <a href="https://www.youtube.com/channel/UCAkzrVPNbg
 <li>Compressed Path Quick Union</li>
 <li>Cmbination of above: WQUPC or Amortized Analysis</li>
 </ul>
-Wow! for 10^9 unions and finds with 10^9 objects
+<p>Wow! for 10^9 unions and finds with 10^9 objects</p>
 <ul>
-<li>WQUPC reduce time from 30 years to 6 seconds<li>
-<li>Supercomputers wont help much, good algorithm enable solution<li>
+<li>WQUPC reduce time from 30 years to 6 seconds</li>
+<li>Supercomputers wont help much, good algorithm enable solution</li>
 </ul>
